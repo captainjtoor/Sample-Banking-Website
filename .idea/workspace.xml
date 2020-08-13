@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="842b2e8f-82a5-4c2f-90f0-7328cf955c91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YucCYfrzEaPgSylLdk9Hn7Q5eG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kanav\OneDrive - Douglas College\College\Web Devlopment\Project\1280Project\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kanav\OneDrive - Douglas College\College\Web Devlopment\Project\1280Project" />
+      <recent name="C:\Users\kanav\PhpstormProjects\1280Project" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="842b2e8f-82a5-4c2f-90f0-7328cf955c91" name="Default Changelist" comment="" />
+      <created>1583795792338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583795792338</updated>
+      <workItem from="1583795793556" duration="5859000" />
+      <workItem from="1585089121228" duration="7915000" />
+      <workItem from="1585154515169" duration="670000" />
+      <workItem from="1585157387260" duration="2154000" />
+      <workItem from="1585419730032" duration="4838000" />
+      <workItem from="1585513761351" duration="7427000" />
+      <workItem from="1585857900365" duration="5384000" />
+      <workItem from="1585866206658" duration="333000" />
+      <workItem from="1586022367979" duration="6451000" />
+      <workItem from="1586029715109" duration="14340000" />
+      <workItem from="1586044782180" duration="10710000" />
+      <workItem from="1586111044997" duration="4962000" />
+      <workItem from="1586117825697" duration="11742000" />
+      <workItem from="1586131965888" duration="19768000" />
+      <workItem from="1586200171806" duration="25975000" />
+      <workItem from="1586232974223" duration="8732000" />
+      <workItem from="1586243018103" duration="466000" />
+      <workItem from="1586287992104" duration="4147000" />
+      <workItem from="1586298352242" duration="45125000" />
+      <workItem from="1597348266343" duration="1891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586383335659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586383335659" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583797106504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583797106504" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585866283736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585866283736" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586298353322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586298353322" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586395926686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586395926686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/file.js</url>
+          <line>98</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
